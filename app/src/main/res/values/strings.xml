@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="action_settings">Your city</string>
+    <string name="action_weather">Weather now</string>
+    <string name="action_forecast">Forecast</string>
+    <string name="title_activity_two">Weather now</string>
+    <string name="main">Main:</string>
+    <string name="description">Description:</string>
+    <string name="temp">Temp:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="temp_min">Temp_min:</string>
+    <string name="temp_max">Temp_max:</string>
+    <string name="wind_speed">Wind speed:</string>
+    <string name="wind_deg">Wind geg:</string>
+    <string name="clouds">Clouds:</string>
+    <string name="city">Город</string>
+    <string name="title_activity_three">Forecast</string>
+
+</resources>
